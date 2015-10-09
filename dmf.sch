@@ -29306,6 +29306,7 @@ https://github.com/jcnossen/dmf</text>
 <pinref part="D3" gate="G$1" pin="C"/>
 <wire x1="30.48" y1="38.1" x2="22.86" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="38.1" x2="22.86" y2="33.02" width="0.1524" layer="91"/>
+<junction x="30.48" y="38.1"/>
 </segment>
 </net>
 <net name="N$11" class="0">

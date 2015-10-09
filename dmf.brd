@@ -6098,30 +6098,27 @@ Based on the following sources:&lt;p&gt;
 <wire x1="13.56" y1="47.24" x2="13.56" y2="49.88" width="0.8128" layer="16"/>
 <wire x1="13.56" y1="49.88" x2="9.5" y2="53.94" width="0.8128" layer="16"/>
 <polygon width="0.3048" layer="16" isolate="0.254">
-<vertex x="-2.72" y="100.72"/>
+<vertex x="-0.62" y="100.76"/>
 <vertex x="102.34" y="100.72"/>
 <vertex x="102.34" y="-2.72"/>
 <vertex x="25.82" y="-2.72"/>
-<vertex x="25.82" y="19.5"/>
 <vertex x="25.82" y="19.84"/>
 <vertex x="20.32" y="25.34"/>
 <vertex x="-2.06" y="25.34"/>
 <vertex x="-2.38" y="25.66"/>
-<vertex x="-2.38" y="99.04"/>
-<vertex x="-2.12" y="99.3"/>
+<vertex x="-2.24" y="99.02"/>
 </polygon>
 <polygon width="0.3048" layer="1" isolate="0.254">
-<vertex x="-2.54" y="100.58"/>
+<vertex x="-0.72" y="100.72"/>
 <vertex x="102.52" y="100.58"/>
 <vertex x="102.52" y="-2.86"/>
 <vertex x="26" y="-2.86"/>
-<vertex x="26" y="19.36"/>
 <vertex x="26" y="19.7"/>
 <vertex x="20.5" y="25.2"/>
 <vertex x="-1.88" y="25.2"/>
 <vertex x="-2.2" y="25.52"/>
 <vertex x="-2.2" y="98.9"/>
-<vertex x="-1.94" y="99.16"/>
+<vertex x="-1.72" y="100.06"/>
 </polygon>
 </signal>
 <signal name="HVGND">
